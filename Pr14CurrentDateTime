@@ -1,0 +1,11 @@
+using System;
+
+class Pr14CurrentDateAndTime
+{
+    static void Main()
+    {
+        DateTime presentMoment = DateTime.Now;
+        Console.WriteLine(presentMoment);
+        Console.ReadLine();
+    }
+}
