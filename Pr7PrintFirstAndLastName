@@ -1,0 +1,12 @@
+using System;
+
+class PrintFirLastName
+{
+    static void Main()
+    {
+        Console.WriteLine("My name is");
+        Console.WriteLine("Dimo");
+        Console.WriteLine("Dimitrov");
+        Console.ReadLine();
+    }
+}
