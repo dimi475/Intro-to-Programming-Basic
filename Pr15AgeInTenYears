@@ -1,0 +1,15 @@
+using System;
+
+class ageInTenYears
+{
+    static void Main()
+    {
+        DateTime today = DateTime.Today;
+        DateTime birthDay = new DateTime(1975, 12, 2, 17, 30, 0, 0);
+        int age = today.Year - birthDay.Year;
+        int agePlusTen = age + 10;
+        Console.WriteLine("My birthday is " + birthDay);
+        Console.WriteLine("My age is " + age);
+        Console.WriteLine("After ten years I will be " + agePlusTen + " years old.");
+    }
+}
