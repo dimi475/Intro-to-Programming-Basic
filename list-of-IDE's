@@ -1,0 +1,31 @@
+Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code. Sometimes people want to try the product without investing thousands of dollars first, so Microsoft has the Express editions for all of their products. 
+Advantages
+    Intellisense
+    Automatic code formatting
+    Extensibility 
+    Compiles Code
+Cons
+    CPU Hog 
+    Overwhelming GUI 
+    Cost 
+
+2.Eclipse
+This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+Advantages 
+       Language Extensibility 
+       Free 
+       Compiles Code
+Cons
+       Steep Learning Curve \
+
+3.Netbeans
+The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+Advantages
+       Extensible
+       Compiles Code
+       Free   
+Cons
+       Bloated
+
+4.PHP Storm and WebStorm
+Like Visual Studio this IDE's are Intellisense and Automatic code formatting. They are cheap, but not free.
