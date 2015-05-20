@@ -1,0 +1,12 @@
+//Problem 5 Print My Name
+using System;
+
+
+class PrintMyName
+{
+    static void Main()
+    {
+        Console.WriteLine("My name is Dimo Dimitrov");
+        Console.ReadLine();
+    }
+}
