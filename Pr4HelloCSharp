@@ -1,0 +1,13 @@
+//Problem 4 Hello CSharp//
+
+using System;
+
+
+class HelloCSharp
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello C#");
+        Console.ReadLine();
+    }
+}
