@@ -1,0 +1,12 @@
+using System;
+
+
+class PrintSqRoot
+{
+    static void Main()
+    {
+        double basicNum=12345;
+        Console.WriteLine("Square root of 12345 = "+Math.Sqrt(basicNum));
+        Console.Read();
+    }
+}
